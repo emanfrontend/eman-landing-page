@@ -44,6 +44,7 @@ A modern landing page built using HTML & CSS.
 📫 Contact Me
 
 🔗 GitHub: https://github.com/emanfrontend
+   WhatsApp: https://wa.me/01208657843
 
 ---
 
