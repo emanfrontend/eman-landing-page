@@ -29,7 +29,7 @@ I build clean and responsive websites using HTML & CSS.
 
 A responsive dashboard with statistics and tables.
 
-🔗 https://github.com/emanfrontend/Dashboard-Project
+🔗 https://emanfrontend.github.io/eman-landing-page/
 
 ---
 
