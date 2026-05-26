@@ -37,7 +37,7 @@ A responsive dashboard with statistics and tables.
 
 A modern landing page built using HTML & CSS.
 
-🔗 https://github.com/emanfrontend/eman-landing-page
+🔗 https://github.com/emanfrontend/simple-landing-page.git
 
 ---
 
